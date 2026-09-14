@@ -1,10 +1,10 @@
 # Wurschtln
 
+## 1.3.0
+
+Die Wurscht reagiert jetzt zuverlässiger auf Zurufe, behält ihre Abläufe sauber im Blick und zeigt Neuigkeiten ruhiger an.
+
 ## 1.2.0
-
-Die nächste Wurscht kann jetzt noch ein bisschen mehr.
-
-## Unveröffentlicht
 
 Die nächste Wurscht zeigt jetzt auf einen Blick noch klarer, was gerade läuft, bleibt bei Verbindungen zuverlässig im Takt und hält Ausdauer sowie Sammellust besser im Zaum.
 
