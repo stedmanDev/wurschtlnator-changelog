@@ -1,5 +1,9 @@
 # Wurschtln
 
+## 1.4.0
+
+Die Wurscht bekommt für ihren nächsten Ausflug einen neuen, gut bewachten Eingang, findet nach sicheren Abzweigungen weiter und bleibt bei unklaren Wegen zuverlässig stehen.
+
 ## 1.3.0
 
 Die Wurscht reagiert jetzt zuverlässiger auf Zurufe, behält ihre Abläufe sauber im Blick und zeigt Neuigkeiten ruhiger an.
