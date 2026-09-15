@@ -1,5 +1,9 @@
 # Wurschtln
 
+## 1.5.0
+
+Die Wurscht findet auf ihrem nächsten Ausflug auch nach längeren Pausen und neuen Anläufen sicher weiter und bleibt bei unklaren Antworten vorsichtig.
+
 ## 1.4.0
 
 Die Wurscht bekommt für ihren nächsten Ausflug einen neuen, gut bewachten Eingang, findet nach sicheren Abzweigungen weiter und bleibt bei unklaren Wegen zuverlässig stehen.
