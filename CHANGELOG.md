@@ -1,5 +1,9 @@
 # Wurschtln
 
+## 1.6.1
+
+Die Wurscht findet nach einem frischen Start jetzt auch auf schon geöffneten Wegen zuverlässig weiter.
+
 ## 1.6.0
 
 Die Wurscht bleibt bei zu großem Andrang jetzt sofort sicher stehen, sagt im Verlauf, warum, und läuft nach einer angepassten Grenze wieder los.
