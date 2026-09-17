@@ -1,5 +1,9 @@
 # Wurschtln
 
+## 1.6.0
+
+Die Wurscht bleibt bei zu großem Andrang jetzt sofort sicher stehen, sagt im Verlauf, warum, und läuft nach einer angepassten Grenze wieder los.
+
 ## 1.5.0
 
 Die Wurscht findet auf ihrem nächsten Ausflug auch nach längeren Pausen und neuen Anläufen sicher weiter und bleibt bei unklaren Antworten vorsichtig.
