@@ -1,5 +1,9 @@
 # Wurschtln
 
+## 1.8.0
+
+Die Wurscht packt ihre Suchzettel jetzt vollständiger ein, erklärt beim Auspacken genauer, was wieder an seinen Platz kommt, lässt den Markt dabei zuverlässig in Ruhe, zeigt im Verlauf mehr von dem, was zuletzt passiert ist, behält bestätigte Erfolge dauerhaft im Blick und nimmt empfindliche Zutaten nur noch gut verschlossen mit.
+
 ## 1.7.0
 
 Die Wurscht nimmt künftig wieder den richtigen Eingang, kann Fundstücke auf Wunsch sicher vorbeiziehen lassen, ordnet auch einzelne zuverlässig zu, hält gespeicherte Suchzettel vollständig zusammen, erkennt gelungene Griffe wieder richtig, bleibt auf alten Abzweigungen nicht mehr hängen und hält sich beim Tempo wie beim Feierabend an die Abmachung.
