@@ -1,5 +1,9 @@
 # Wurschtln
 
+## 1.8.1
+
+Die Wurscht behält beim nächsten Ausflug nur noch das Wesentliche im Blick.
+
 ## 1.8.0
 
 Die Wurscht packt ihre Suchzettel jetzt vollständiger ein, erklärt beim Auspacken genauer, was wieder an seinen Platz kommt, lässt den Markt dabei zuverlässig in Ruhe, zeigt im Verlauf mehr von dem, was zuletzt passiert ist, behält bestätigte Erfolge dauerhaft im Blick und nimmt empfindliche Zutaten nur noch gut verschlossen mit.
