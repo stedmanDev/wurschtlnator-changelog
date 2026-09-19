@@ -1,5 +1,9 @@
 # Wurschtln
 
+## 1.7.0
+
+Die Wurscht nimmt künftig wieder den richtigen Eingang, kann Fundstücke auf Wunsch sicher vorbeiziehen lassen, ordnet auch einzelne zuverlässig zu, hält gespeicherte Suchzettel vollständig zusammen, erkennt gelungene Griffe wieder richtig, bleibt auf alten Abzweigungen nicht mehr hängen und hält sich beim Tempo wie beim Feierabend an die Abmachung.
+
 ## 1.6.1
 
 Die Wurscht findet nach einem frischen Start jetzt auch auf schon geöffneten Wegen zuverlässig weiter.
