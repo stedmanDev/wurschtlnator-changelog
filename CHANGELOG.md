@@ -1,5 +1,9 @@
 # Wurschtln
 
+## 1.9.0
+
+Die Wurscht darf nach ausdrücklichem Zuruf einen streng begrenzten Ausflug vollständig begleiten, behält bestätigte Erfolge auch bei längerem Suchrauschen sichtbar, prüft ihre Nachrichtenbereitschaft vor dem Start, hält sich verlässlich an das gerade sichtbare Ziel und führt reproduzierbar bis zum sicheren Startpunkt.
+
 ## 1.8.1
 
 Die Wurscht behält beim nächsten Ausflug nur noch das Wesentliche im Blick.
