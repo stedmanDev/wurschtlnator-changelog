@@ -1,5 +1,9 @@
 # Wurschtln
 
+## 1.10.0
+
+Die Wurscht geht mit vertraulichen Zutaten jetzt noch behutsamer um und holt nötige Wegfreigaben bei Probeläufen selbst auf sicherem Weg ein, folgt immer demselben Weg bis zum Startpunkt, versteht auch größere Auswahlen zuverlässig, bleibt auf ausdrücklichen Wunsch für eine Nachschau bereit, läuft nur nach bestätigter Freigabe weiter, begleitet freiwillige Diagnosen sicher und vollständig von Beginn an, hält bei fehlender Freigabe an, räumt ihren eigenen Platz vor dem nächsten Versuch zuverlässig auf, wartet bei kurzzeitigem Gedränge auf einen wieder eindeutig freien Weg, kann bei einem stockenden Rückweg die einzelnen sichtbaren Warteschritte benennen, erkennt die gelungene Rückkehr auch bei anders aufgebauten Auswahlen, findet beim Start wieder schneller ihren eigenen Platz und lässt empfindliche Zutaten künftig nur auf ausdrücklichen Wunsch zurück.
+
 ## 1.9.1
 
 Die Wurscht hält ihre fertige Portion jetzt noch sauberer von Zutaten aus der Versuchsküche getrennt.
