@@ -1,5 +1,9 @@
 # Wurschtln
 
+## 1.11.0
+
+Die Wurscht nimmt bestätigte Korrekturen auch nach mehreren Runden sorgfältiger mit, startet in der Versuchsküche stets mit dem frischen Stand, lässt beim Schreiben die Finger von versehentlichen Befehlen, bewahrt Anhaltspunkte für spätere Nachschauen noch genauer auf, trennt freiwillige Nachschauen sorgfältig vom laufenden Tun und erkennt handbetätigte Preisschritte wieder zum richtigen Zeitpunkt.
+
 ## 1.10.1
 
 Die Wurscht erkennt künftig genauer, wo es hakt, ohne eine unbekannte Ursache als Gewissheit auszugeben.
