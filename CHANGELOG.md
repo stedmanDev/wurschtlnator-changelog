@@ -1,5 +1,9 @@
 # Wurschtln
 
+## 1.12.2
+
+Die Wurscht hält ihre Schalter und Knöpfe jetzt ruhiger in derselben Spur.
+
 ## 1.12.1
 
 Die Wurscht trennt ihre Zurufe jetzt sauberer nach Herkunft, ohne sich gegenseitig zu überstimmen.
