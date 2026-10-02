@@ -1,5 +1,9 @@
 # Wurschtln
 
+## 1.12.1
+
+Die Wurscht trennt ihre Zurufe jetzt sauberer nach Herkunft, ohne sich gegenseitig zu überstimmen.
+
 ## 1.12.0
 
 Die Wurscht bekommt für einen künftigen sicheren Start einen eigenen festen Platz, ohne den bisherigen Platz stillschweigend zu ersetzen, zeigt jetzt ehrlicher, ob sie bereit ist, etwas festgehalten hat oder dabei Hilfe braucht, lässt einzelne Erinnerungen behutsam nachschauen und mitnehmen, bereitet eine begrenzte Nachschau auf besonders eilige Abläufe vor, bewahrt frisch gewählte Nachrichtenwünsche zuverlässig bis zum Start und wartet bei bekannten Fehlern nicht länger auf eine freiwillige Nachschau.
