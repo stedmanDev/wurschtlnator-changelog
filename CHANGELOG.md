@@ -1,5 +1,9 @@
 # Wurschtln
 
+## 1.12.3
+
+Die Wurscht merkt sich bei einer zu langen Wartezeit genauer, wo sie stehen geblieben ist, und folgt bestätigten Freigaben beim Start zuverlässiger, ohne eine unbekannte Ursache zu erfinden.
+
 ## 1.12.2
 
 Die Wurscht hält ihre Schalter und Knöpfe jetzt ruhiger in derselben Spur.
