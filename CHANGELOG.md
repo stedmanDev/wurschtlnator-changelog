@@ -1,5 +1,9 @@
 # Wurschtln
 
+## 1.13.0
+
+Die Wurscht bleibt jetzt zuverlässiger bei dem, was du ausdrücklich eingeschaltet hast, gibt ungeprüfte Möglichkeiten nicht als sichere Sache aus und bewahrt beim Stocken unmittelbare Anhaltspunkte, ohne eine unbekannte Ursache zu erfinden.
+
 ## 1.12.3
 
 Die Wurscht merkt sich bei einer zu langen Wartezeit genauer, wo sie stehen geblieben ist, und folgt bestätigten Freigaben beim Start zuverlässiger, ohne eine unbekannte Ursache zu erfinden.
