@@ -1,5 +1,9 @@
 # Wurschtln
 
+## 1.14.0
+
+Die Wurscht geht mit stockenden Anfängen gelassener um, bleibt bei wechselnden Umständen zuverlässiger in ihrer Spur und lässt dabei klarer erkennen, wo sie zuletzt verlässlich angekommen ist.
+
 ## 1.13.2
 
 Die Wurscht findet sich jetzt auch auf anders aufgebauten Suchwegen zurecht, behält die gewählte Auswahl zuverlässig bei, verwechselt unterschiedliche Fundstücke nicht miteinander und richtet ihren Tatendrang wieder nach den gewählten Bremsen.
