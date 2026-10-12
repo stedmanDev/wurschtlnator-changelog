@@ -1,5 +1,9 @@
 # Wurschtln
 
+## 1.13.2
+
+Die Wurscht findet sich jetzt auch auf anders aufgebauten Suchwegen zurecht, behält die gewählte Auswahl zuverlässig bei, verwechselt unterschiedliche Fundstücke nicht miteinander und richtet ihren Tatendrang wieder nach den gewählten Bremsen.
+
 ## 1.13.1
 
 Die Wurscht zählt beim Nachdrehen wieder in denselben Schritten, merkt sich dabei auch mitbewegte Grenzen, bleibt bei mehreren Zurufen zuverlässig in ihrer Spur und bewahrt beim Stocken genauere Anhaltspunkte, ohne eine unbekannte Ursache zu erfinden.
