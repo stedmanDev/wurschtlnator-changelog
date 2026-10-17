@@ -1,5 +1,9 @@
 # Wurschtln
 
+## 1.15.1
+
+Die Wurscht setzt nach einem verpassten Griff erst mit einem frischen Anlauf fort.
+
 ## 1.15.0
 
 Die Wurscht nimmt zusätzliche Wünsche zuverlässiger mit, kommt mit vollständigeren Bezeichnungen zurecht, hält Nachrichtenwünsche an einer verbindlichen Stelle zusammen, merkt sich bestätigte Zwischenschritte auch bei wechselnden Gegenübern getrennt von bereits erledigten Dingen, bleibt bis zum nächsten Anlauf bei einem Fundstück auch bei wechselndem Gewand und unveränderten Auffrischungen bis zum tatsächlichen Abschluss, respektiert die gewählten Bremsen auch zwischen zwei Handgriffen, erkennt Erledigtes auch bei stehen gebliebenen Resten, knapperen Worten, flüchtigen Nachwehen und verschwindenden Spuren und bewahrt beim Stocken schon früh und auch bei flüchtigen Wechseln genauer unterscheidbare Anhaltspunkte, ohne alte Zeichen mit neuen Bestätigungen zu verwechseln.
