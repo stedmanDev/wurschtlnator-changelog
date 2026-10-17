@@ -1,5 +1,9 @@
 # Wurschtln
 
+## 1.16.0
+
+Die Wurscht hält zusammengestellte Wünsche übersichtlich, merkt sich benannte Wünsche beim Anpassen von selbst, erledigt sie der Reihe nach bis zur gewünschten Ablage, findet auch beim Üben die passenden Namen, schaut auf Wunsch erst einmal nur zu, lässt sich auch beim ersten Anlauf nicht aus der Ruhe bringen, verwechselt unterschiedliche Zwischenstände nicht mehr miteinander, behält offene Wünsche im Blick, erlaubt nach einem bewussten Neuanfang wieder frische Wünsche, merkt sich bis dahin, was schon im Körbchen liegt, räumt abgelegte Wunschzettel auf Wunsch gründlich weg, nimmt beim Verstauen auch die bisherige Ausbeute mit und erkennt auch zwischen mehreren offenen Möglichkeiten das richtige Gegenüber.
+
 ## 1.15.1
 
 Die Wurscht setzt nach einem verpassten Griff erst mit einem frischen Anlauf fort.
