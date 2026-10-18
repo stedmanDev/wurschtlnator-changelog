@@ -1,5 +1,9 @@
 # Wurschtln
 
+## 1.16.2
+
+Die Wurscht hält getrennt gewählte Zurufe wieder zuverlässig auseinander und merkt sich jeden Wunsch für sich.
+
 ## 1.16.1
 
 Die Wurscht lässt auf Wunsch auch bei vollem Wunschzettel wieder los, ohne bisher Gesammeltes zu vergessen.
