@@ -1,5 +1,9 @@
 # Wurschtln
 
+## 1.17.0
+
+Die Wurscht teilt ihre Geduld verlässlicher ein, hält sich genauer an den Wunschzettel, behält auch unerfüllte Wünsche im Blick und beginnt erst auf ausdrücklichen Wunsch wieder von vorn.
+
 ## 1.16.2
 
 Die Wurscht hält getrennt gewählte Zurufe wieder zuverlässig auseinander und merkt sich jeden Wunsch für sich.
