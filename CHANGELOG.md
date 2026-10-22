@@ -1,5 +1,9 @@
 # Wurschtln
 
+## 1.17.1
+
+Die Wurscht erkennt bereits Gesammeltes auch an seinem Zwischenplatz und reicht es auf ausdrücklichen Wunsch wieder verlässlich weiter.
+
 ## 1.17.0
 
 Die Wurscht teilt ihre Geduld verlässlicher ein, hält sich genauer an den Wunschzettel, behält auch unerfüllte Wünsche im Blick und beginnt erst auf ausdrücklichen Wunsch wieder von vorn.
