@@ -1,5 +1,9 @@
 # Wurschtln
 
+## 1.18.0
+
+Die Wurscht dreht auch beim Abarbeiten zusammengestellter Wünsche wieder wie gewünscht weiter, behält dabei die festgelegte Obergrenze und ausdrücklich gewünschte Ausnahmen im Blick, beginnt erst mit gewähltem nächsten Handgriff, erkennt einen gelungenen Griff auch bei gleichzeitigem Trubel, bleibt bei verpassten Gelegenheiten und kurzen Stolperern geduldig, bleibt beim Weiterschieben auch bei kurzem Hin und Her verlässlich und erklärt deutlicher, wann ein frischer Anfang nötig ist.
+
 ## 1.17.1
 
 Die Wurscht erkennt bereits Gesammeltes auch an seinem Zwischenplatz und reicht es auf ausdrücklichen Wunsch wieder verlässlich weiter.
