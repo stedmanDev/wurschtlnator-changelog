@@ -1,5 +1,9 @@
 # Wurschtln
 
+## 1.19.0
+
+Die Wurscht dreht auf Wunsch wieder wie früher hin und her, bringt krumme Wünsche in die passende Form, hält unverträgliche Wünsche verlässlich auseinander und bleibt dabei innerhalb deiner Vorgaben.
+
 ## 1.18.1
 
 Die Wurscht hält gleiche Wünsche an verschiedenen Plätzen sauber auseinander, lässt sich nach einer Unterbrechung wieder bewusst weiterdrehen und auf Wunsch von vorn beginnen, ohne bereits Gesammeltes beim Weiterdrehen zu vergessen oder einen ungeklärten Griff einfach zu wiederholen.
