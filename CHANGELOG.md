@@ -1,5 +1,9 @@
 # Wurschtln
 
+## 1.19.1
+
+Die Wurscht fasst sich jetzt kürzer und spricht wieder Klartext.
+
 ## 1.19.0
 
 Die Wurscht dreht auf Wunsch wieder wie früher hin und her, bringt krumme Wünsche in die passende Form, hält unverträgliche Wünsche verlässlich auseinander und bleibt dabei innerhalb deiner Vorgaben.
