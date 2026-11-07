@@ -1,5 +1,9 @@
 # Wurschtln
 
+## 1.19.3
+
+Die Wurscht erkennt passende Gelegenheiten wieder richtig und bleibt nach einem verpassten Griff verlässlich dran.
+
 ## 1.19.2
 
 Die Wurscht findet nach einem verpassten Griff wieder sicher in ihren Takt.
