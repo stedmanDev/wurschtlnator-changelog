@@ -1,5 +1,9 @@
 # Wurschtln
 
+## 1.19.2
+
+Die Wurscht findet nach einem verpassten Griff wieder sicher in ihren Takt.
+
 ## 1.19.1
 
 Die Wurscht fasst sich jetzt kürzer und spricht wieder Klartext.
